@@ -1,0 +1,18 @@
+{
+    "mentor": {
+        "title": "Meet Your Mentor",
+        "description": "Forget who you are. Learn anew ..."
+    },
+    "services": [
+        {
+            "title": "1:1 Coaching",
+            "description": "Personalized coaching sessions...",
+            "image": "coaching.jpg"
+        },
+        {
+            "title": "Online Courses",
+            "description": "Expand your knowledge ...",
+            "image": "courses.jpg"
+        }
+    ]
+}
